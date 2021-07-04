@@ -1,2 +1,2 @@
 # JavaVetores
-Trabalhando com manipulação de vetores em java
+Trabalhando com estrutura estática - vetores
